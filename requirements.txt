@@ -1,0 +1,6 @@
+# JellyRip — dépendances Python
+# L'interface graphique utilise Tkinter (inclus avec Python ; sous Ubuntu :
+# sudo apt install python3-tk). Aucune dépendance n'est obligatoire pour
+# démarrer ; les deux paquets ci-dessous ajoutent les métadonnées des CD.
+discid ; platform_system != "Windows"
+musicbrainzngs
